@@ -25,10 +25,10 @@ Over 80% of workouts lasted more than 45 minutes — reflecting strong time comm
 The 84% goal achievement rate demonstrates discipline, even when the initial target was ambitious.
 
 ## 💡 Skills Demonstrated
-Data cleaning and transformation (Power Query)
-Data modeling to deduplicate exercise logs
-Dashboard design in Power BI
-KPI visualizations (Gauge, Multi-Row Cards, Custom Tooltips)
+- Data cleaning and transformation (Power Query)
+- Data modeling to deduplicate exercise logs
+- Dashboard design in Power BI
+- KPI visualizations (Gauge, Multi-Row Cards, Custom Tooltips)
 
 
 
