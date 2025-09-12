@@ -1,10 +1,12 @@
 # 🏋️‍♀️ Workout Analytics Dashboard
-This project explores personal workout trends over a 100-week period using Power BI. The goal was to understand workout patterns, time commitment, and goal consistency through visually appealing and insightful dashboards.
+A 100-week analysis of personal workout data using Power BI to uncover trends in workout frequency, time commitment, and goal consistency through clean, interactive dashboards.
 
 ## 📂 Project Contents
-Hevy_workouts_log_100_weeks.csv — Cleaned dataset of exercise logs across 100 weeks.
+- **Hevy_workouts_log_100_weeks.csv** – Cleaned dataset of 100 weeks of exercise logs.
+- **Workout_Analytics.pbix** – Power BI dashboard file with all visualizations.
 
-Workout_Analytics.pbix — Power BI dashboard file containing multiple visualizations.
+## How to View
+Open the .pbix file in Power BI Desktop to explore all visuals interactively
 
 ## 📊 Dashboard Highlights
 ### Workout Consistency Gauge
@@ -27,8 +29,8 @@ The 84% goal achievement rate demonstrates discipline, even when the initial tar
 ## 💡 Skills Demonstrated
 - Data cleaning and transformation (Power Query)
 - Data modeling to deduplicate exercise logs
-- Dashboard design in Power BI
-- KPI visualizations (Gauge, Multi-Row Cards, Custom Tooltips)
+- Designed an interactive **Power BI dashboard** 
+- Created KPIs and trend analyses to highlight consistency and progress
 
 
 
