@@ -39,3 +39,5 @@ The dataset originally logged exercises not sessions, so care was taken to avoid
 🧑‍💻 Author
 
 Tejaswini Damodara Kannan
+Data Analyst- Student Affair 
+East Texas A&M university 
